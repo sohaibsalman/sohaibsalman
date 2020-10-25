@@ -1,6 +1,6 @@
 ## Hi there, I'm Sohaib Salman 👋
 
-### Self Learner | Software Engineer | Web Developer
+### Self Learner | Software Developer
 
 - 🔭 I’m currently working on ML and Full Stack Web Development
 - 🌱 I’m currently learning Android, React js and .NET Core
