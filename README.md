@@ -2,7 +2,7 @@
 
 ### Self Learner | Software Developer
 
-- 🔭 I’m currently working on ML and Full Stack Web Development
+- 🔭 I’m currently working on Full Stack Web Development and Mobile Development
 - 🌱 I’m currently learning Android, React js and .NET Core
 
 ### Education:
