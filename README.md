@@ -27,8 +27,9 @@
 <img src="https://raw.githubusercontent.com/sohaibsalman/sohaibsalman/main/assets/Git-Icon-1788C.png" width="40" align="left"/>
 <br/> 
 
-### GitHub Analytics
+## GitHub Analytics
 ![](https://komarev.com/ghpvc/?username=sohaibsalman&color=green)
 
 ![Sohaib's github stats](https://github-readme-stats.vercel.app/api?username=sohaibsalman&count_private=true&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibsalman&layout=compact&langs_count=10)
