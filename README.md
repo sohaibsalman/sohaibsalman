@@ -6,7 +6,7 @@
 ## About me? 😄
 💡 A young tech enthusiastic who loves to develop things.
 
-💻 Associate Software Engineer @Rolustech.
+💻 Software Engineer.
 
 ✏️ Education: BS IT from Punjab University College of Information Technology (PUCIT) - 2017 ~ 2021
 
