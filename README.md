@@ -23,17 +23,13 @@
 </p>
 
 <hr />
+
+![](https://img.shields.io/github/followers/sohaibsalman.svg?style=social&label=Follow&maxAge=2592000) ![](https://komarev.com/ghpvc/?username=sohaibsalman&color=green) <a href="mailto:sohaib.it40@gmail.com"> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/> </a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibsalman&layout=compact&langs_count=10&theme=blue-green) ![Sohaib's github stats](https://github-readme-stats.vercel.app/api?username=sohaibsalman&count_private=true&show_icons=true&theme=blue-green)
+
+<hr />
 <h3>Connect with me</h3>
 <p>
 <a href="https://github.com/sohaibsalman" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a> <a href="https://www.linkedin.com/in/sohaibsalman/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="likedin"/></a>  <a href="https://www.facebook.com/S0haibSalman/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
 </p>
-
-<hr />
-
-![](https://img.shields.io/github/followers/sohaibsalman.svg?style=social&label=Follow&maxAge=2592000) ![](https://komarev.com/ghpvc/?username=sohaibsalman&color=green) <a href="mailto:sohaib.it40@gmail.com"> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/> </a>
-
-![Sohaib's github stats](https://github-readme-stats.vercel.app/api?username=sohaibsalman&count_private=true&show_icons=true&theme=blue-green)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibsalman&layout=compact&langs_count=10&theme=blue-green)
-
-
