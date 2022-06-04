@@ -1,4 +1,4 @@
-<h1 align="center">Hi Geeks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px">, I'm Sohaib Salman</h1>
+<h1 align="center">Hi Geeks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">, I'm Sohaib Salman</h1>
 <h4 align="center">A passionate and Software Engineer and a self-learner from Pakistan who is eager to learn new and exciting things!</h4>
 
 <h3>Things I code with</h3>
