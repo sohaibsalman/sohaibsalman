@@ -27,11 +27,10 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/sohaibsalman.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sohaibsalman?tab=followers) ![](https://komarev.com/ghpvc/?username=sohaibsalman&color=green) <a href="mailto:sohaib.it40@gmail.com"> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/> </a>
 
-[![Sohaib's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sohaibsalman&theme=blue-green)](https://github.com/sohaibsalman/github-readme-streak-stats)
-
-![Sohaib's github stats](https://github-readme-stats.vercel.app/api?username=sohaibsalman&count_private=true&show_icons=true&theme=blue-green)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibsalman&layout=compact&langs_count=10&theme=blue-green) 
+<div style="text-align: center;">
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sohaibsalman&show_icons=true&count_private=true&hide_border=true&title_color=ecf2f8&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibsalman&layout=compact&langs_count=10&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117" />
+</div>
 
 <hr />
 <h3>Connect with me</h3>
