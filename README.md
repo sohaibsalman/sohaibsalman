@@ -1,7 +1,7 @@
 <h1 align="center">Hi Geeks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">, I'm Sohaib Salman</h1>
-<h4 align="center">A passionate and Software Engineer and a self-learner from Pakistan who is eager to learn new and exciting things!</h4>
+<h3 align="center">A passionate and Software Engineer and a self-learner from Pakistan who is eager to learn new and exciting things!</h3>
 
-<h3>Things I code with</h3>
+<h3>Languages and Tools I work with:</h3>
 <p>
 <image src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="dotnet"/>
 <image src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/>
@@ -33,7 +33,7 @@
 </div>
 
 <hr />
-<h3>Connect with me</h3>
+<h3>Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/sohaibsalman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </p>
